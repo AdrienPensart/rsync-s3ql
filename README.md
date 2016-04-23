@@ -1,0 +1,2 @@
+- rsync over ssh
+- s3ql
